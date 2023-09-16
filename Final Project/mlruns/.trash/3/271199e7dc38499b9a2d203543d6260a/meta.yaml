@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/3/271199e7dc38499b9a2d203543d6260a/artifacts
+end_time: 1644334413573
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+name: ''
+run_id: 271199e7dc38499b9a2d203543d6260a
+run_uuid: 271199e7dc38499b9a2d203543d6260a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1644334412012
+status: 4
+tags: []
+user_id: amirhoosein

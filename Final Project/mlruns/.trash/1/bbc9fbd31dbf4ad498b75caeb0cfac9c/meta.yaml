@@ -1,0 +1,15 @@
+artifact_uri: file:///home/amirhoosein/Documents/term5/ML/Project/ML_Project/mlruns/1/bbc9fbd31dbf4ad498b75caeb0cfac9c/artifacts
+end_time: 1644321467546
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: bbc9fbd31dbf4ad498b75caeb0cfac9c
+run_uuid: bbc9fbd31dbf4ad498b75caeb0cfac9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1644321467538
+status: 3
+tags: []
+user_id: amirhoosein

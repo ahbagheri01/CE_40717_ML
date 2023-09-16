@@ -1,0 +1,4 @@
+artifact_location: file:///home/amirhoosein/Documents/term5/ML/Project/ML_Project/mlruns/4
+experiment_id: '4'
+lifecycle_stage: active
+name: Recommendation Model
